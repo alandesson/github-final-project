@@ -1,7 +1,13 @@
 # github-final-project
 
 This project is part of the Coursera "Introduction to Git and GitHub" course.  
-It contains a simple shell script to calculate Simple Interest.
+It contains a calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
 
 ## Files
 - `simple-interest.sh` → A shell script to calculate Simple Interest.
